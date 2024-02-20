@@ -5,6 +5,14 @@
 body {
   font-family: "Noto Sans KR", sans-serif;
 }
+section{
+  width: 1920px;
+  margin: auto;
+}
+footer{
+  width: 1920px;
+  margin: auto;
+}
 a {
   display: block;
 }
@@ -187,7 +195,6 @@ header > div {
 
 /*seller*/
 .seller {
-  width: 1920px;
   height: 865px;
   margin: auto;
   background: url(../images/seller/background.jpg) no-repeat;
